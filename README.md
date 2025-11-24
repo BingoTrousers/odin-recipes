@@ -1,2 +1,3 @@
 # odin-recipes
-Odin Project Recipes course
+
+This is for the Odin Project recipes course
