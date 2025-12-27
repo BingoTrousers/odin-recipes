@@ -1,63 +1,43 @@
 body {
   background-color: grey;
+  font-family: "Open Sans", Verdana, sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
 }
 
 h1 {
-  font-family: "Open Sans", sans-serif;
-  font-optical-sizing: auto;
   font-weight: 700;
-  font-style: normal;
   font-size: 38px;
-  font-variation-settings: "wdth" 100;
   padding: 8px;
 }
 
 h2 {
-  font-family: "Open Sans", sans-serif;
-  font-optical-sizing: auto;
   font-weight: 500;
-  font-style: normal;
-  font-variation-settings: "wdth" 100;
-  padding: 8px;
   font-size: 24px;
+  padding: 8px;
 }
 
 h3 {
-  font-family: "Open Sans", sans-serif;
-  font-optical-sizing: auto;
   font-weight: 400;
-  font-style: normal;
   font-size: 20px;
-  font-variation-settings: "wdth" 100;
   padding: 8px;
 }
 
 h4 {
-  font-family: "Open Sans", sans-serif;
-  font-optical-sizing: auto;
   font-weight: 200;
-  font-style: normal;
   font-size: 20px;
-  font-variation-settings: "wdth" 100;
   padding: 8px;
 }
 
 h5 {
-  font-family: "Open Sans", sans-serif;
-  font-optical-sizing: auto;
   font-weight: 100;
-  font-style: normal;
   font-size: 18px;
-  font-variation-settings: "wdth" 100;
   padding: 8px;
 }
 
 p {
-  font-family: "Open Sans", sans-serif;
-  font-optical-sizing: auto;
   font-weight: 400;
-  font-style: normal;
-  font-variation-settings: "wdth" 100;
   padding-left: 16px;
   padding-bottom: 12px;
 }
@@ -67,11 +47,7 @@ img {
 }
 
 a {
-  font-family: "Open Sans", sans-serif;
-  font-optical-sizing: auto;
   font-weight: 500;
-  font-style: normal;
-  font-variation-settings: "wdth" 100;
   color: lightskyblue;
 }
 
@@ -82,7 +58,5 @@ a {
 
 ul,
 ol {
-  font-family: "Open Sans", sans-serif;
-  font-optical-sizing: auto;
   padding-bottom: 12px;
 }
